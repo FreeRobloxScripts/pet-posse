@@ -1,4 +1,4 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/sha...)
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/shadowTW/dsadasdas/main/petposse.lua')))()
 local plr = game.Players.LocalPlayer
 local things = workspace.__THINGS
 local remote = things.__REMOTES.clickedButton
